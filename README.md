@@ -24,3 +24,16 @@ Punch: Because it was a factorial
 Setup: What was baby MongoDB’s first words?
 
 Punch: da-da-base
+<hr />
+
+Q: What is a frontend developer’s favorite game?
+A: DOM-inoes
+</hr />
+
+Q: Why did HTML break up with Javascript?
+A: Because JavaScript was too vanilla.
+<hr />
+
+Q: What did the React Class Component do when it heard a funny joke?
+A: It gave props!
+<hr />
