@@ -37,3 +37,11 @@ A: Because JavaScript was too vanilla.
 Q: What did the React Class Component do when it heard a funny joke?
 A: It gave props!
 <hr />
+
+Q: Did you hear about the MMA fighter who became a frontend developer?
+A: Yeah, during the day she Reacc, at night she attac
+<hr />
+
+Q: Have you heard about the two software engineers whose job is to just deploy sites using Amazon?
+A: Yeah he said his job is 2EC… The other engineer also said it was EC2.
+<hr />
