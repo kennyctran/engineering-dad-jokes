@@ -55,3 +55,23 @@ Q: What became the life motto of the Redux store that joined a sorority?
 
 A: Think, thank, thunk :heart:
 <hr />
+
+Q: Have you heard about the new pokemon that is based off of a computer?
+
+A: It’s favorite attack is Bash
+<hr />
+
+Q: Why was the functional react component not invited to the fancy dinner?
+
+A: They said he had no Class
+<hr />
+
+Q: How did React component make its fortune in the oil industry?
+
+A: Prop drilling.
+<hr />
+
+Q: Why are computers so obsessed with their health?
+
+A: Because the sickness is usually terminal.
+<hr />
