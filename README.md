@@ -75,3 +75,19 @@ Q: Why are computers so obsessed with their health?
 
 A: Because the sickness is usually terminal.
 <hr />
+
+Q: Why was the Terminal so shy for a first date?
+
+A: It was Bashful
+<hr />
+
+Q: What did the RESTful API say after it messed up a request?
+
+A: Awww CRUD
+<hr />
+
+Q: Why is dating a SQL table so difficult?
+
+A: Because they’re always in so many relationships.
+<hr />
+
