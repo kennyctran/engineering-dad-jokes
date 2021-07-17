@@ -91,3 +91,13 @@ Q: Why is dating a SQL table so difficult?
 A: Because they’re always in so many relationships.
 <hr />
 
+Q: Did you hear about how MongoDB became a hand surgeon?
+
+A: Yeah, its speciality is db.createIndex
+<hr />
+
+Q: What is a programmer’s favorite breakfast item?
+
+A: A full-stack of pancakes.
+<hr />
+
