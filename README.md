@@ -101,3 +101,7 @@ Q: What is a programmer’s favorite breakfast item?
 A: A full-stack of pancakes.
 <hr />
 
+Q: How did the React Developer get their job?
+
+A: They used Refs.
+<hr />
