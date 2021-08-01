@@ -105,3 +105,20 @@ Q: How did the React Developer get their job?
 
 A: They used Refs.
 <hr />
+
+Q: Have you heard about the horse who works as a software engineer?
+
+A: He made so much that he bought his own Hash Stable.
+
+<hr />
+
+Q: What does Tik Tok use to style the frontend?
+
+A: CSS Style SHEESH
+
+<hr />
+
+Q: Did you hear about the hit song by Cascading Style Sheets?
+
+A: Yeah, it goes, “Cause everytime we touch, I need some margin.
+<hr />
